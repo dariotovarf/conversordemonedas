@@ -12,7 +12,7 @@ El usuario puede ingresar una cantidad en la divisa de origen y obtener su equiv
 - Ejecución simple a través de la consola.
 
 ## Requisitos
-- **Java** 8 o superior.
+- **Java** 17 o superior.
 - **Conexión a Internet** para el acceso a la API.
 
 ## Instalación

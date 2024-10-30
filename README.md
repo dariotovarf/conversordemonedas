@@ -1,4 +1,4 @@
-# ConversorDeMonedas
+# Conversordemonedas
 
 ## Descripción
 **ConversorDeMonedas** es una aplicación de consola desarrollada en Java que permite convertir cantidades de una divisa a otra. Utiliza la API gratuita de "https://www.omdbapi.com" para obtener los tipos de cambio actualizados.

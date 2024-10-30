@@ -2,9 +2,6 @@ package com.conversordemonedas.principal;
 
 import com.conversordemonedas.modelos.Moneda;
 import com.conversordemonedas.utilidades.ApiDivisas;
-import com.google.gson.FieldNamingPolicy;
-import com.google.gson.Gson;
-import com.google.gson.GsonBuilder;
 
 import java.io.IOException;
 import java.util.InputMismatchException;
@@ -18,7 +15,7 @@ public class Principal {
 
         try{
             while(opcion != 7){
-                Moneda moneda;
+
                 String datos;
                 double valorAconvertir;
                 double equivalente;

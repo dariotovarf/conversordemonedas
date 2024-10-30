@@ -1,6 +1,6 @@
 package com.conversordemonedas.principal;
 
-import com.conversordemonedas.modelos.Moneda;
+
 import com.conversordemonedas.utilidades.ApiDivisas;
 
 import java.io.IOException;

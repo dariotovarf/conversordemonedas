@@ -1,5 +1,3 @@
-<h1>Conversordemonedas </h1>
-
 # ConversorDeMonedas
 
 ## Descripción
